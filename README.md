@@ -7,17 +7,18 @@
 
 - 💻 I'm a developer skilled in **HTML5, CSS, JavaScript, React.js, and TypeScript.**
 
-- 📊 I manage **Social Media Strategies for businesses.**
-
 - 🎨 I have a strong passion for **UI/UX Design and Graphic Design.**
+
+- 🌐 I build Responsive and User-Friendly **Web Applications.**
 
 - 📸 I’m also into **Photography, Videography, and Cinematography.**
 
-- 👨‍💻 Visit My Portfolio at [www.lensanand.com](www.lensanand.com)
-
+- 📊 I manage **Social Media Strategies for businesses.**
+  
 - 🚀 Always open to Collaborating on **New Projects and learning more!**
 
-- 🌐 I build Responsive and User-Friendly **Web Applications.**
+- 👨‍💻 Visit My Portfolio at [www.lensanand.com](www.lensanand.com)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
