@@ -1,7 +1,7 @@
 ![Header](./Header.png)
 <h1 align="center">Hi 👋, I'm Anand Yadav</h1>
 <h3 align="center">🔹 Creative Developer | Visual Storyteller | Problem Solver 🔹</h3>
-<img align="right" width="500" src="https://github.com/anandy77/anandy77/blob/main/animation.gif" alt="anandy77" />
+<img align="right" width="400" src="https://github.com/anandy77/anandy77/blob/main/animation.gif" alt="anandy77" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandy77&label=Profile%20views&color=0e75b6&style=flat" alt="anandy77" /> </p>
 
 
