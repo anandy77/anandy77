@@ -1,18 +1,23 @@
-![Header](./your-header-image-name.png)
+![Header](./Header.png)
 <h1 align="center">Hi 👋, I'm Anand Yadav</h1>
 <h3 align="center">🔹 Creative Developer | Visual Storyteller | Problem Solver 🔹</h3>
-<img align="right" alt="coding" width="400" scr="https://www.ameba.com.uy/wp-content/uploads/2016/03/animacion-lobo-2.gif">
+<img align="right" width="500" src="https://github.com/anandy77/anandy77/blob/main/animation.gif" alt="anandy77" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandy77&label=Profile%20views&color=0e75b6&style=flat" alt="anandy77" /> </p>
+
 
 - 💻 I'm a developer skilled in **HTML5, CSS, JavaScript, React.js, and TypeScript.**
 
+- 📊 I manage **Social Media Strategies for businesses.**
+
 - 🎨 I have a strong passion for **UI/UX Design and Graphic Design.**
 
-- 🌐 I build Responsive and User-Friendly Web Applications. **Photography, Videography, and Cinematography.**
+- 📸 I’m also into **Photography, Videography, and Cinematography.**
 
 - 👨‍💻 Visit My Portfolio at [www.lensanand.com](www.lensanand.com)
 
-- 📫 How to reach me **aaannnddd77@gmail.com**
+- 🚀 Always open to Collaborating on **New Projects and learning more!**
+
+- 🌐 I build Responsive and User-Friendly **Web Applications.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
